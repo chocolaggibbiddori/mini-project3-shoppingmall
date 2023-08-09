@@ -67,7 +67,8 @@
 - Service 클래스는 싱글톤으로 만들자
 - 하나의 메서드에는 하나의 기능만 부여하자
 - 각 클래스 및 메서드에 Javadoc 주석을 달자(코드를 읽어보지 않아도 사용 가능하게끔)
-- 유사한 요청들은 하나의 Controller 클래스에서 처리하자 
+- 유사한 요청들은 하나의 Controller 클래스에서 처리하자
+- Controller 요청 경로는 항상 맨 앞에 /action을 붙여 구분하자
 - Controller 클래스는 protected void service() 메서드를 구현하여 각 경로를 분리하도록 하자
 - 각 기능은 Controller 클래스에서 메서드로 구현하자
 - 요청 경로, 각 변수 등을 로그로 남기자
