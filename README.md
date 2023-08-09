@@ -78,7 +78,9 @@
 
 > service 패키지 생성
 
-![service 패키지](./screenshot/service%20패키지.png)
+![service 패키지](./screenshot/service%20패키지.png)
+
+> Service 클래스 내 메서드 예시
 
 ```java
 /**
