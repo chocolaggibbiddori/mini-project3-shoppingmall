@@ -78,7 +78,7 @@
 
 > service 패키지 생성
 
-![service 패키지](./screenshot/service%20패키지.png)
+![service 패키지](./screenshot/service 패키지.png)
 
 ```java
 /**
